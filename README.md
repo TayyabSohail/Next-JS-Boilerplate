@@ -155,4 +155,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests if y
 
 ## Contact
 
-For questions, issues, or further information, please open an issue in this repository or contact the maintainer at [abbassays514@gmail.com].
+For questions, issues, or further information, please open an issue in this repository or contact the maintainer at [m.tayyabsohail614@gmail.com].
